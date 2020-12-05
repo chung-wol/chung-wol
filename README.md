@@ -22,13 +22,13 @@ SW영재교육원에 합격해 인공지능을 공부하여 한국과학기술�
 ### A 16-year-old Developer who Dreams of Becoming An Artificial Cell Researcher Using Neural Networks
 
 I am a 16-year-old developer who likes math and science very much.
-After Passing SW Academy, I'm hoping to enter KAIST.
+After passing SW Academy, I'm hoping to enter KAIST.
 
-📚 Everything I studied, I liked.
+📚 Everything I studied, Everything I liked.
 
 Machine Learning Theory : It's fun. It's really fun. Except this is just a theory
 
-Web Development : Studying Full-Stack Development Using React, Express, Nest, Typescript. (Not too much)
+Web Development : Studying Full-Stack Development Using React, Express, Nest, Typescript. (Not much)
 
 Cross-Flatform Development : I studied Development using Flutter, but I'm really terrible at Designing.
 
@@ -36,9 +36,9 @@ Computer Graphics : Studying OpenGL Library. Let's get into C++!
 
 Physics : In Korea, We learn 4 part of science: Physics, Chemistry, Biology, GeoScience. I love Physics, Chemistry.
 
-Linear Allgebra, Calculus : I don't know whether I understood them or not...
+Linear Algebra, Calculus : I don't know whether I understood them or not...
 
-IZONE : The first and Last IDOL I like. I'm always supporting for them.
+IZ ONE : The first and Last IDOL I like. I'm always supporting for them.
 
 [![Gmail](https://img.shields.io/badge/-ccbj0523@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ccbj0523@gmail.com)](mailto:ccbj0523@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40choi__bj0121-ff69b4?style=flat-square&logo=Instagram)](https://www.instagram.com/choi_bj0121/)
