@@ -19,4 +19,5 @@ SW영재교육원에 합격해 인공지능을 공부하여 한국과학기술�
 
 아이즈원 : 처음이자 마지막으로 좋아하게 될 아이돌. 항상 응원합니다
 
+[![Instagram](https://img.shields.io/badge/Instagram-%40choi__bj0121-ff69b4)](https://www.instagram.com/choi_bj0121/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cbj0523&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
