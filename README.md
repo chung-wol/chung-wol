@@ -18,7 +18,7 @@ SW영재교육원에 합격해 인공지능을 공부하여 한국과학기술�
 선형대수학, 미적분학 : 내가 이해한 건지 이해하지 못한 건지 모르겠습니다...
 
 아이즈원 : 처음이자 마지막으로 좋아하게 될 아이돌. 항상 응원합니다
-
+[![Gmail](https://img.shields.io/badge/-ccbj0523@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ccbj0523@gmail.com)](mailto:ccbj0523@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40choi__bj0121-ff69b4?style=flat-square&logo=Instagram)](https://www.instagram.com/choi_bj0121/)
 [![Facebook](https://img.shields.io/badge/Facebook-%EC%B5%9C%EB%B3%91%EC%A4%80-blue?style=flat-square&logo=Facebook)](https://www.facebook.com/profile.php?id=100008861502571)
 
