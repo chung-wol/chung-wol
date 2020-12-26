@@ -1,4 +1,4 @@
-### 인공신경망을 활용한 인조세포 연구원을 꿈꾸고 있는 16세 개발자
+### 세계의 중심에서, 세상을 바꾼다. 
 
 수학, 과학을 매우 좋아하는 16살 개발자입니다.
 SW영재교육원에 합격해 인공지능을 공부하여 한국과학기술원(KAIST) 특기자 전형을 목표하는 욕심 있는 개발자입니다.
@@ -25,7 +25,7 @@ SW영재교육원에 합격해 인공지능을 공부하여 한국과학기술�
 
 애니메이션 OST 피아노 버젼
 
-### A 16-year-old Developer who Dreams of Becoming An Artificial Cell Researcher Using Neural Networks
+### Moving the World From the Epicenter.
 
 I am a 16-year-old developer who likes math and science very much.
 After passing SW Academy, I'm hoping to enter KAIST.
