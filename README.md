@@ -1,6 +1,6 @@
 ### 세계의 중심에서, 세상을 바꾼다. 
 
-수학, 과학을 매우 좋아하는 16살 개발자입니다.
+수학, 과학을 매우 좋아하는 17살 개발자입니다.
 SW영재교육원에 합격해 인공지능을 공부하여 한국과학기술원(KAIST) 특기자 전형을 목표하는 욕심 있는 개발자입니다.
 
 📚 공부하고 있는 것, 했던 것, 좋아하는 것
@@ -27,7 +27,7 @@ SW영재교육원에 합격해 인공지능을 공부하여 한국과학기술�
 
 ### Moving the World From the Epicenter.
 
-I am a 16-year-old developer who likes math and science very much.
+I am a 17-year-old developer who likes math and science very much.
 After passing SW Academy, I'm hoping to enter KAIST.
 
 📚 Everything I studied, Everything I liked.
