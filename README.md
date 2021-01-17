@@ -20,8 +20,6 @@
 
 애니메이션 OST 피아노 버젼
 
-### Moving the World From the Epicenter.
-
 I am a 17-year-old developer who likes math and science very much.
 
 📚 Everything I studied, Everything I liked.
