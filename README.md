@@ -12,10 +12,6 @@
 
 컴퓨터 그래픽스 : OpenGL 라이브러리를 공부중입니다. C++ 이라는 매력에 빠져보세요!
 
-물리학1 : 통합과학 없이 공부하는게 재밌습니다. 
-
-선형대수학, 미적분학 : 내가 이해한 건지 이해하지 못한 건지 모르겠습니다...
-
 🎵 제일 좋아하는 노래
 
 아이즈원 - 파노라마(Panorama)
@@ -37,10 +33,6 @@ Web Development : Studying Full-Stack Development Using React, Express, Nest, Ty
 Cross-Flatform Development : I studied Development using Flutter, but I'm really terrible at Designing.
 
 Computer Graphics : Studying OpenGL Library. Let's get into C++!
-
-Physics : In Korea, We learn 4 part of science: Physics, Chemistry, Biology, GeoScience. I love Physics, Chemistry.
-
-Linear Algebra, Calculus : I don't know whether I understood them or not...
 
 🎵 My Favorite Songs
 
