@@ -1,4 +1,4 @@
-### 아직 꿈을 못 찾은 예비 대학생, 현 고3
+### 아직 꿈을 못 찾은 예비 대학생
 #### 개발은 취미로 하는... 중...
 
 [![Gmail](https://img.shields.io/badge/-ccbj0523@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ccbj0523@gmail.com)](mailto:ccbj0523@gmail.com)
