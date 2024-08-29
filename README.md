@@ -1,4 +1,11 @@
-### 오늘도 방황하며 책을 피고 덮는... 대학교 1학년생
-
-[![Gmail](https://img.shields.io/badge/-ccbj0523@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ccbj0523@gmail.com)](mailto:ccbj0523@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40choi__bj0121-ff69b4?style=flat-square&logo=Instagram)](https://www.instagram.com/choi_bj0121/)
+<div align=center>
+  
+  ![header](https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&text=Hello%20World!&fontSize=30&fontColor=ffffff&fontAlign=87&rotate=13&fontAlignY=44)
+  <hr />
+  <h3>세계는 나의 표상이다</h3>
+  <h4>Freshman at Yonsei University, majoring Economics<br />Interested in Computer Security(Pwnable, Reversing, Digital Forensic), Computer Science, Mathematics</h4>
+  <br />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbj0523)](https://github.com/anuraghazra/github-readme-stats)
+  <hr />    
+</div>
