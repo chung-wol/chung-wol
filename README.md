@@ -5,6 +5,6 @@
   <h4>Sophomore at Yonsei University, majoring Economics<br />
   <br />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbj0523)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chung-wol)](https://github.com/anuraghazra/github-readme-stats)
   <hr />    
 </div>
