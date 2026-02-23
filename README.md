@@ -2,8 +2,8 @@
   
 <hr />
 
-I'm Byeong Jun Choi, just call me Jun :D
-I am studying at Yonsei University as undergraduate student,
+I'm Byeong Jun Choi, just call me Jun :D <br>
+I am studying at Yonsei University as undergraduate student;
 <br>
 majoring economics and electrical engineering, physics (as interdisciplinary major)
 <br>
@@ -14,5 +14,5 @@ You can find me below! <br>
 ![Followers](https://img.shields.io/github/followers/chung-wol)
 ![Stars](https://img.shields.io/github/stars/chung-wol)
 <br>
-
+<br>
 <img src="https://ghchart.rshah.org/003876/chung-wol"/>
