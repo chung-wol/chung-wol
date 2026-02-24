@@ -14,5 +14,3 @@ You can find me below! <br>
 ![Followers](https://img.shields.io/github/followers/chung-wol)
 ![Stars](https://img.shields.io/github/stars/chung-wol)
 <br>
-<br>
-<img src="https://ghchart.rshah.org/003876/chung-wol"/>
